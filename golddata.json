@@ -1,0 +1,16 @@
+{"symbol":"GOLD","updated":"2026-11-12T13:16:00Z","overall":"Very Bearish",
+"scores":{"total":-8,"macro":-9,"technical":0,"sentiment":1},
+"cot":{"long":84.33,"short":15.67,"change":-1.39,"date":"2026-11-06"},
+"yield2y":{"signal":"Bullish","latest":3.9,"sma21":4.0},
+"sections":[
+{"title":"Economic growth","label":"Very Bearish","rows":[
+{"name":"GDP Growth QoQ","signal":"Bearish","actual":3.4,"forecast":3.2,"surprise":0.2,"date":"Oct 29"},
+{"name":"Retail Sales MoM","signal":"Bearish","actual":0.8,"forecast":0.3,"surprise":0.5,"date":"Oct 15"}]},
+{"title":"Inflation","label":"Bearish","rows":[
+{"name":"CPI YoY","signal":"Bearish","actual":3.8,"forecast":3.7,"surprise":0.1,"date":"Nov 10"},
+{"name":"PPI YoY","signal":"Bearish","actual":6.3,"forecast":5.3,"surprise":1.0,"date":"Oct 15"},
+{"name":"PCE YoY","signal":"Neutral","actual":3.1,"forecast":3.1,"surprise":0,"date":"Oct 28"}]},
+{"title":"Jobs market","label":"Very Bearish","rows":[
+{"name":"Non-Farm Payroll","signal":"Bearish","actual":165000,"forecast":65000,"surprise":100000,"date":"Nov 06"},
+{"name":"Unemployment Rate","signal":"Bearish","actual":4.1,"forecast":4.2,"surprise":-0.1,"date":"Nov 06"},
+{"name":"Weekly Jobless Claims","signal":"Bearish","actual":189000,"forecast":196000,"surprise":-7000,"date":"Nov 05"}]}]}
